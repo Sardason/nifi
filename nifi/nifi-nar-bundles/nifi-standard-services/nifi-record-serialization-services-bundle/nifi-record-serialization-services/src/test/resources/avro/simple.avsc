@@ -1,8 +1,0 @@
-{
-  "namespace": "nifi",
-  "name": "simple",
-  "type": "record",
-  "fields": [
-    {"name": "msg", "type": "string"}
-  ]
-}
