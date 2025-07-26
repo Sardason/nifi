@@ -1,1 +1,0 @@
-{"type":"record","name":"nifiRecord","namespace":"org.apache.nifi","fields":[{"name":"id","type":"int"},{"name":"name","type":["string",{"type":"record","name":"nameType","fields":[{"name":"lastName","type":"string"}]}]}]}

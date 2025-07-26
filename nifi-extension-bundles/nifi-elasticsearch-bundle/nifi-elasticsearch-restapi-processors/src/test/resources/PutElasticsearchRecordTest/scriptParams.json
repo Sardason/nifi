@@ -1,7 +1,0 @@
-{
-  "source" : "some script",
-  "language" : "painless",
-  "params": {
-    "param": 1
-  }
-}
