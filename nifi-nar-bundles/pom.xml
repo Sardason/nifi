@@ -31,7 +31,8 @@
         <module>nifi-hadoop-libraries-bundle</module>
         <module>nifi-jetty-bundle</module>
         <module>nifi-provenance-repository-bundle</module>
-        <module>nifi-standard-bundle</module>
+        <module>nifi-standard-merge-bundle</module>
+        <module>nifi-standard-merge-bundle</module>
         <module>nifi-standard-services</module>
         <module>nifi-update-attribute-bundle</module>
         <module>nifi-kafka-bundle</module>
@@ -125,6 +126,9 @@
         <module>nifi-iotdb-bundle</module>
         <module>nifi-cipher-bundle</module>
         <module>nifi-compress-bundle</module>
+        <module>nifi-caas-bundle</module>
+        <module>nifi-caas-bundle/nifi-caas-processors</module>
+        <module>nifi-caas-bundle/nifi-caas-nar</module>
     </modules>
 
     <build>
